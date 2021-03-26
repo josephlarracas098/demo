@@ -1,14 +1,17 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"title": "Student",
+	"firstName": "Joseph",
+	"middleName": "Penales",
+	"lastName": "Larracas",
+	"extensionName": "Penales",
+	"civilStatus": "Single",
+	"school": "Bagong Pook Elementary School",
+	"address": "037 Holy Rosary St. Bagong San Pablo City",
+	"emailAddress": "joseph.larracas@gmail.com",
+	"mobileNumber": "09063865206",
+	"gender": "Male",
+	"birthday": "May 1, 1997",
+	"lrn": "1234567",
+	"grade": 1
 }
+
